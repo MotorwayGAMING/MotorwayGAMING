@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MotorwayGAMING
+- 👋 Hi, I’m @MotorwayGaming
 - 👀 I’m interested in ... Python, C++, Java and C.
 - 🌱 I’m currently learning ... JavaScript 💀
 - 💞️ I’m looking to collaborate on ...
